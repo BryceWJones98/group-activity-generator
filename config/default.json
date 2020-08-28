@@ -1,0 +1,10 @@
+{
+  "server" : {
+    "port": 3000
+  },
+  "groupme" : {
+    "token": "groupme_token_here",
+    "bot_id": "groupme_botid_here",
+    "message_post_url": "https://api.groupme.com/v3/bots/post"
+  }
+}

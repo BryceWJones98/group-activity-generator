@@ -1,0 +1,26 @@
+{
+  "name": "group-activity-generator",
+  "version": "0.1.0",
+  "description": "Offer a utility which allows groups of people to come up with gathering activities.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BryceWJones98/group-activity-generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BryceWJones98/group-activity-generator/issues"
+  },
+  "homepage": "https://github.com/BryceWJones98/group-activity-generator#readme",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "body-parser": "^1.19.0",
+    "config": "^3.3.1",
+    "express": "^4.17.1"
+  }
+}
